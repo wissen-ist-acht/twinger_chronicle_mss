@@ -1,0 +1,26 @@
+{
+    "description": "<p><strong>Full Changelog</strong>: <a href=\"https://github.com/wissen-ist-acht/twinger/commits/v1.0\">https://github.com/wissen-ist-acht/twinger/commits/v1.0</a></p>", 
+    "license": "CC BY 4.0", 
+    "title": "wissen-ist-acht/twinger: v1.0", 
+    "version": "v1.0", 
+    "upload_type": "data base", 
+    "publication_date": "2022-12-21", 
+    "creators": [
+        {
+            "name": "Ina Serif"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/wissen-ist-acht/twinger/tree/v1.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.7468713", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
