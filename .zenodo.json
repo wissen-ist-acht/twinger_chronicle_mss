@@ -14,11 +14,6 @@
     "access_right": "open", 
     "related_identifiers": [
         {
-            "scheme": "url", 
-            "identifier": "https://github.com/wissen-ist-acht/twinger_chronicle_mss/tree/v1.1", 
-            "relation": "isSupplementTo"
-        }, 
-        {
             "scheme": "doi", 
             "identifier": "10.5281/zenodo.7468713", 
             "relation": "isVersionOf"
