@@ -11,12 +11,5 @@
             "orcid": "0000-0003-2419-4252"
         }
     ], 
-    "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.7468713", 
-            "relation": "isVersionOf"
-        }
-    ]
+    "access_right": "open"
 }
