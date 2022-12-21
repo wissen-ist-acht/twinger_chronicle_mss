@@ -1,4 +1,9 @@
 # twinger
+
+[![DOI](https://zenodo.org/badge/516755010.svg)](https://zenodo.org/badge/latestdoi/516755010)
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 Database for the known manuscripts that transmit the [chronicle of Jakob Twinger von Königshofen](http://www.geschichtsquellen.de/werk/3006?mark=%28%3Fis%29%28twinger%29).
   
 The database derives from my research for my PhD, which I conducted between 2013 and 2017 at the University of Freiburg (Germany). The thesis was defended in summer 2018 and published in 2020 with De Gruyter: [Ina Serif: Geschichte aus der Stadt. Überlieferung und Aneignungsformen der deutschen Chronik Jakob Twingers von Königshofen. Berlin/Boston 2020.](https://doi.org/10.1515/9783110636475)
